@@ -61,5 +61,9 @@ return {
 
     {
         "jbyuki/venn.nvim"
+    },
+    -- go plugin
+    {
+        "fatih/vim-go"
     }
 }
